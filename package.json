@@ -40,7 +40,7 @@
     "@open-wc/testing-karma": "^1.0.0",
     "@open-wc/testing-karma-bs": "^1.0.0",
     "husky": "^1.0.0",
-    "lint-staged": "^8.0.0",
+    "lint-staged": "^13.1.0",
     "owc-dev-server": "^0.3.0",
     "sinon": "^7.4.2",
     "typescript": "^3.3.3333",
